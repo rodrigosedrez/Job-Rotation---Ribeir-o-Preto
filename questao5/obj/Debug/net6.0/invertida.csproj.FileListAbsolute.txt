@@ -1,0 +1,15 @@
+C:\Users\rodri\Desktop\aulas_Csharp\aulasBalta\arquivos teste indee\questao2\invertida\bin\Debug\net6.0\invertida.exe
+C:\Users\rodri\Desktop\aulas_Csharp\aulasBalta\arquivos teste indee\questao2\invertida\bin\Debug\net6.0\invertida.deps.json
+C:\Users\rodri\Desktop\aulas_Csharp\aulasBalta\arquivos teste indee\questao2\invertida\bin\Debug\net6.0\invertida.runtimeconfig.json
+C:\Users\rodri\Desktop\aulas_Csharp\aulasBalta\arquivos teste indee\questao2\invertida\bin\Debug\net6.0\invertida.dll
+C:\Users\rodri\Desktop\aulas_Csharp\aulasBalta\arquivos teste indee\questao2\invertida\bin\Debug\net6.0\invertida.pdb
+C:\Users\rodri\Desktop\aulas_Csharp\aulasBalta\arquivos teste indee\questao2\invertida\obj\Debug\net6.0\invertida.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\aulas_Csharp\aulasBalta\arquivos teste indee\questao2\invertida\obj\Debug\net6.0\invertida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\aulas_Csharp\aulasBalta\arquivos teste indee\questao2\invertida\obj\Debug\net6.0\invertida.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\aulas_Csharp\aulasBalta\arquivos teste indee\questao2\invertida\obj\Debug\net6.0\invertida.AssemblyInfo.cs
+C:\Users\rodri\Desktop\aulas_Csharp\aulasBalta\arquivos teste indee\questao2\invertida\obj\Debug\net6.0\invertida.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\aulas_Csharp\aulasBalta\arquivos teste indee\questao2\invertida\obj\Debug\net6.0\invertida.dll
+C:\Users\rodri\Desktop\aulas_Csharp\aulasBalta\arquivos teste indee\questao2\invertida\obj\Debug\net6.0\refint\invertida.dll
+C:\Users\rodri\Desktop\aulas_Csharp\aulasBalta\arquivos teste indee\questao2\invertida\obj\Debug\net6.0\invertida.pdb
+C:\Users\rodri\Desktop\aulas_Csharp\aulasBalta\arquivos teste indee\questao2\invertida\obj\Debug\net6.0\invertida.genruntimeconfig.cache
+C:\Users\rodri\Desktop\aulas_Csharp\aulasBalta\arquivos teste indee\questao2\invertida\obj\Debug\net6.0\ref\invertida.dll
